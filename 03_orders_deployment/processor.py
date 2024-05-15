@@ -1,14 +1,3 @@
-#
-# Example Code for Algorithmic Strategy Deployment
-# on Oanda (https://oanda.com)
-#
-# (c) Dr. Yves J. Hilpisch
-# The Python Quants GmbH
-#
-# The code is for illustration purposes only. No warranties or representations
-# to the extent permitted by applicable law. The code does not
-# represent investment advice or a recommendation in any regard.
-#
 from enum import Enum
 from tpqoa import tpqoa
 from threading import RLock

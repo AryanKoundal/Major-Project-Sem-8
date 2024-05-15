@@ -1,14 +1,5 @@
 # simple movimg average
-# Example Code for Algorithmic Strategy Deployment
-# on Oanda (https://oanda.com)
-#
-# (c) Dr. Yves J. Hilpisch
-# The Python Quants GmbH
-#
-# The code is for illustration purposes only. No warranties or representations
-# to the extent permitted by applicable law. The code does not
-# represent investment advice or a recommendation in any regard.
-#
+
 ''' This is a trading strategy template for an algorithmic trading strategy based
     on technical indicators that can be defined flexibly.
 '''
